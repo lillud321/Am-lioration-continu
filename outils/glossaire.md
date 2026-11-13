@@ -1,0 +1,21 @@
+# Glossaire
+
+- **AS-IS** : processus tel qu'il est réellement exécuté aujourd'hui.
+- **TO-BE** : processus cible après transformation.
+- **BPM** : Business Process Management, gestion des processus d'affaires.
+- **BPMN** : Business Process Model and Notation, notation standardisée.
+- **Swimlane** : couloir représentant un rôle, équipe ou système.
+- **DMAIC** : Define, Measure, Analyze, Improve, Control.
+- **PDCA** : Plan, Do, Check, Act.
+- **SIPOC** : Suppliers, Inputs, Process, Outputs, Customers.
+- **VOC** : Voice of Customer, besoins exprimés des utilisateurs/clients.
+- **CTQ** : Critical to Quality, critères de qualité importants pour le client.
+- **KPI** : indicateur clé de performance avec définition et cible.
+- **Baseline** : valeur de référence avant changement.
+- **Pareto** : classement de causes selon leur contribution au problème.
+- **OCR** : reconnaissance optique des caractères.
+- **UAT** : User Acceptance Testing, tests d'acceptation par les utilisateurs.
+- **RACI** : Responsible, Accountable, Consulted, Informed.
+- **Process mining** : analyse de traces événementielles pour reconstruire l'exécution réelle.
+- **P50/P90** : médiane / 90e percentile d'une distribution.
+- **BPA** : Business Process Automation, automatisation des processus d'affaires.

@@ -1,0 +1,12 @@
+# Données et documents de travail privés : ne jamais les publier
+*.env
+.env*
+!*.env.example
+*.log
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+donnees-reelles/
+confidentiel/
+prive/
