@@ -1,0 +1,11 @@
+message_id,centre_attendu,centre_propose,mode,minutes_tri_humain,exception,classement_correct
+TEST-001,A,A,automatique,0.0,non,oui
+TEST-002,B,B,automatique,0.0,non,oui
+TEST-003,C,C,automatique,0.0,non,oui
+TEST-004,A,,manuel,2.5,oui,
+TEST-005,B,A,automatique,3.0,non,non
+TEST-006,D,D,manuel,2.0,oui,oui
+TEST-007,C,,manuel,4.0,oui,
+TEST-008,A,A,automatique,0.0,non,oui
+TEST-009,D,D,automatique,0.0,non,oui
+TEST-010,B,B,automatique,0.0,non,oui
