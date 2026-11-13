@@ -1,0 +1,17 @@
+facture_id,centre,type_commande,statut,jours_pret_a_payer,minutes_actives,nb_reprises,motif_principal,paiement_a_echeance
+F001,A,BC,Payee,5,8,0,,oui
+F002,B,Sans_BC,Payee,20,18,2,Approbation,non
+F003,C,BC,Payee,9,11,1,Reception_absente,oui
+F004,D,BC,Payee,7,8,0,,oui
+F005,A,Sans_BC,Payee,18,17,1,Imputation,non
+F006,B,BC,Payee,6,8,0,,oui
+F007,C,BC,Payee,14,15,1,Reception_absente,non
+F008,D,BC,Payee,4,7,0,,oui
+F009,A,BC,Payee,8,10,0,,oui
+F010,B,Sans_BC,Payee,24,20,2,Approbation,non
+F011,C,BC,Payee,10,12,1,Ecart_BC,oui
+F012,D,BC,Payee,6,8,0,,oui
+F013,A,BC,Payee,11,13,1,Imputation,oui
+F014,B,BC,Payee,5,8,0,,oui
+F015,C,Sans_BC,Payee,21,19,2,Information_fournisseur,non
+F016,D,BC,Payee,7,8,0,,oui

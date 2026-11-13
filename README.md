@@ -6,8 +6,9 @@ Méthode pratique pour améliorer les processus administratifs et opérationnels
 1. Lire [la méthode pas à pas](guides/01-methode-dmaic.md).
 2. Copier [la fiche de cadrage](gabarits/01-charte-projet.md) dans son projet.
 3. Dessiner le **AS-IS**, mesurer le processus actuel, chercher les causes, puis concevoir le **TO-BE**.
-4. Utiliser [le cas fictif des factures](exemples/comptes-a-payer/README.md) comme modèle.
-5. Suivre les résultats avec [les indicateurs BI](guides/03-indicateurs-bi.md).
+4. Commencer par [l'étude de cas complète du cycle fournisseurs](exemples/cycle-fournisseurs/README.md) pour appliquer toutes les étapes DMAIC.
+5. Consulter [le mini-cas de tri des courriels](exemples/comptes-a-payer/README.md) pour un exercice ciblé d'automatisation.
+6. Suivre les résultats avec [les indicateurs BI](guides/03-indicateurs-bi.md).
 
 ## Parcours recommandé
 | Phase | Question | Livrable |
@@ -21,7 +22,8 @@ Méthode pratique pour améliorer les processus administratifs et opérationnels
 ## Contenu du dépôt
 - [Guides](guides/) : méthode DMAIC, cartographie BPMN, indicateurs BI, analyse des causes, automatisation, gouvernance.
 - [Gabarits](gabarits/) : documents à copier et compléter pour chaque projet.
-- [Exemples](exemples/comptes-a-payer/) : cas complet, fictif, sur une boîte Outlook partagée et quatre commis.
+- [Cas transversal du cycle fournisseurs](exemples/cycle-fournisseurs/README.md) : **étude principale complète** de réception à paiement, avec charte, SIPOC, AS-IS, Pareto, TO-BE, UAT, BI et contrôle.
+- [Mini-cas Outlook](exemples/comptes-a-payer/README.md) : exemple plus ciblé du routage des courriels et de quatre commis.
 - [Outils](outils/) : choix de méthodes, glossaire, aide-mémoire.
 
 ## Principes de travail
